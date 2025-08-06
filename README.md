@@ -18,4 +18,4 @@ Github（官方）：https://github.com/AppGalleryConnect/agc-template-market-ha
 
 | 购物类（商城）行业模板 | 购物类（优惠券）行业模板 | 购物类（快递物流）行业模板 |
 |:---:|:---:|:---:|
-| ![输入图片说明](ComprehensiveMall/screenshot/home.png)|![输入图片说明](ComprehensiveMall/screenshot/home.png)| ![输入图片说明](Express/screenshots/%E5%AF%84%E5%BF%AB%E9%80%92.jpeg) |
+|![输入图片说明](%E7%BB%BC%E5%90%88%E5%95%86%E5%9C%BA%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.png)|![输入图片说明](%E4%BC%98%E6%83%A0%E5%88%B8%E5%85%83%E6%9C%8D%E5%8A%A1%E6%A8%A1%E6%9D%BF.png)| ![输入图片说明](%E5%BF%AB%E9%80%92%E7%89%A9%E6%B5%81%E5%BA%94%E7%94%A8%E6%A8%A1%E6%9D%BF.png) |
